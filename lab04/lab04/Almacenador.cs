@@ -31,7 +31,7 @@ namespace lab04
         public void Memoria()
         {
             countt += 1;
-            if (countt >= 11)
+            if (countt >= 10)
             {
                 sat = true;
                 Console.WriteLine("\n|||||>> ALMACENADOR:  Memoria Llena <<|||||");

@@ -34,7 +34,7 @@ namespace lab04
         public void Memoria()
         {
             countt += 1;
-            if (countt >=9)
+            if (countt >=17)
             {
                 sat = true;
                 Console.WriteLine("\n|||||>> RECEPCIONISTA:  Memoria Llena <<|||||");

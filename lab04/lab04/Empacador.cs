@@ -34,7 +34,7 @@ namespace lab04
         public void Memoria()
         {
             countt += 1;
-            if (countt >= 17)
+            if (countt >= 22)
             {
                 sat = true;
                 Console.WriteLine("\n|||||>> EMPACADOR:  Memoria Llena <<|||||");
